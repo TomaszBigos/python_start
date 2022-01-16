@@ -11,3 +11,6 @@ print(name[2:])
 
 if 'a' in name:
     print('a was found in %d letters' %len)
+
+if 'z' in name:
+    print('z was found in {0} letters'.format(len))
