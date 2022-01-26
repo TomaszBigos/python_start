@@ -1,4 +1,4 @@
-#Fahrenheit to Celsius
+# Fahrenheit to Celsius
 inp = input('The temperature in the Fahrenheit scale: ')
 try:
     fahr = float(inp)

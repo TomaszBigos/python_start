@@ -1,9 +1,11 @@
 import random
 
-def print_(a,b):
-    print(a/b)
 
-t = [5, 10 ,15]
+def print_(a, b):
+    print(a / b)
+
+
+t = [5, 10, 15]
 
 n = 50
 while n > 0:

@@ -4,7 +4,7 @@ print(fin)
 fout = open('output.txt', 'w', encoding='utf-8')
 
 count = 0
-lines =  ['Dobro jutro', 'Добро утро', 'Dobré ráno', 'Buenos días', 'Guten Morgen', 'Доброе утро']
+lines = ['Dobro jutro', 'Добро утро', 'Dobré ráno', 'Buenos días', 'Guten Morgen', 'Доброе утро']
 for line in fin:
     count = count + 1
     lines.append(line.strip())

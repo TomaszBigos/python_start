@@ -1,5 +1,5 @@
 import math
-#Some input
+# Some input
 name = input('What is your name:')
 
 print(min(name))
