@@ -13,6 +13,7 @@ words = [
 
 
 eng_2_others['Hello World'] = words
+eng_2_others['None'] = 'None'
 
 print("Dictionary:")
 print(eng_2_others)
@@ -21,5 +22,6 @@ print("Tuple:")
 t = (words,)
 print(t)
 
+words.append("None")
 print("List:")
 print(words)

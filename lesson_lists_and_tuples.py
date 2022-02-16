@@ -20,7 +20,6 @@ print(tuple_[:-2])
 print(1 in list_)
 print(1 in tuple_)
 
-
 list_[0] = 0
 print(list_)
 list_[1:4] = ["one", "two", 3]
